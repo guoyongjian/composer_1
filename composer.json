@@ -1,0 +1,13 @@
+{
+  "require": {
+    "guzzlehttp/guzzle": "^6.2",
+    "alibabacloud/client": "^1.0",
+    "phpoffice/phpspreadsheet": "1.8.0"
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "http://composer.hogesoft.com"
+    }
+  ]
+}
