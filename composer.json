@@ -1,4 +1,5 @@
 {
+  "name": "guoyongjian/composer_1",
   "require": {
     "guzzlehttp/guzzle": "^6.2",
     "alibabacloud/client": "^1.0",
